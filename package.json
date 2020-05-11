@@ -1,0 +1,8 @@
+{
+  "name": "k11-5-2020",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-sdk": "2.644.0"
+  },
+  "devDependencies": {}
+}
